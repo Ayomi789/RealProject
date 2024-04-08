@@ -1,0 +1,17 @@
+.active{
+    text-decoration: none;
+    background-color: hotpink;
+    color: yellow;
+    margin-bottom: 10px;
+}
+
+
+.lag{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 14px;
+    color: yellow;
+    margin-bottom: 10px;
+    width: 100%;
+}   

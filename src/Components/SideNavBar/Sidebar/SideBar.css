@@ -1,0 +1,14 @@
+.sidebar{
+    width: 220px;
+    height: 100%;
+    background-color: rgb(44, 124, 194);
+    display: flex;
+    padding: 25px 15px;
+}
+
+
+#links{
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+}
