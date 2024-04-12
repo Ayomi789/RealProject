@@ -1,4 +1,4 @@
-.active{
+#lag.active{
     text-decoration: none;
     background-color: hotpink;
     color: yellow;
@@ -6,7 +6,7 @@
 }
 
 
-.lag{
+#lag{
     text-decoration: none;
     padding: 5px;
     font-weight: 600;
